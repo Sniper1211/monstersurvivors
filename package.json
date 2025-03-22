@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "wrangler pages deploy public --project-name=monster-survivors"
+  },
+  "devDependencies": {
+    "wrangler": "^4.3.0"
+  }
+}
